@@ -37,7 +37,7 @@
 ### 2. 폭행율 — 전국 중간값 초과 vs. 이하
 - 🔴 빨간색: 전국 폭행율 중간값을 초과하는 주
 - 🔵 파란색: 전국 폭행율 중간값 이하인 주
-- ![폭행율 중간값 지도](RPlot_USArrest_Median.png)
+- ![폭행율 중간값 지도](Rplot_USArrest_Median.png)
 
 ### 3. 범죄 변수별 상위 5 / 하위 5개 주
 - 분석 변수: `Murder`(살인), `Assault`(폭행), `UrbanPop`(도시인구), `Rape`(강간)
