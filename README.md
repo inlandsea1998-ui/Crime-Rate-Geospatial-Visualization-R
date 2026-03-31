@@ -32,18 +32,18 @@
 - 색이 진할수록 살인율이 높음
 - 6단계 연속 색상 그라데이션 적용
 - 주 경계선 및 이름 레이블 표시
-- ![살인율 단계구분도](images/Rplot_USAresst_Rate.png)
+- ![살인율 단계구분도](Rplot_USAresst_Rate.png)
 
 ### 2. 폭행율 — 전국 중간값 초과 vs. 이하
 - 🔴 빨간색: 전국 폭행율 중간값을 초과하는 주
 - 🔵 파란색: 전국 폭행율 중간값 이하인 주
-- ![폭행율 중간값 지도](images/RPlot_USArrest_Median.png)
+- ![폭행율 중간값 지도](RPlot_USArrest_Median.png)
 
 ### 3. 범죄 변수별 상위 5 / 하위 5개 주
 - 분석 변수: `Murder`(살인), `Assault`(폭행), `UrbanPop`(도시인구), `Rape`(강간)
 - 가독성을 위한 가로 막대그래프 사용
 - 지역별 패턴 요약 분석 포함
-- ![상위 하위 5개 주 막대그래프](images/Rplot_USArrest_TopBottom.png)
+- ![상위 하위 5개 주 막대그래프](Rplot_USArrest_TopBottom.png)
 
 ---
 
